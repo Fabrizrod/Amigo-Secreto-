@@ -1,6 +1,6 @@
 ### Tópicos 
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+*[ Amigo Secreto - Sorteo Interactivo](#Título-e-imagen-de-portada)
 
 *[Descripción del proyecto](#descripción-del-proyecto)
 
