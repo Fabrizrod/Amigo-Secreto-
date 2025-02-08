@@ -51,3 +51,4 @@ function limpiarCaja(){
 function limpiarLista(){
     let limpia = document.getElementById('listaAmigos').innerHTML = "";
 }
+
